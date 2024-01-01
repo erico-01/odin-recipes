@@ -1,0 +1,36 @@
+body {
+    background-color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.title {
+    
+    text-align: center;
+    
+}
+
+.title-span {
+    background-color: rgb(151, 204, 221);
+    background-size: 100px;
+    color: rgb(80, 80, 185);
+    border-radius: 30px;
+    padding-inline: 30px;
+
+}
+
+ul {
+    padding: 0px;
+}
+
+li {
+    text-align: center;
+    list-style: inside;
+    list-style-type: none;
+    padding: 10px 20px;
+}
+
+.recipe-link {
+    font-size: 20px;
+    background-color: rgb(167, 225, 245);
+    padding: 4px 10px;
+    border-radius: 20px;
+}
